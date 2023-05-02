@@ -1,9 +1,9 @@
-# Er fregno
+# Siummmmmmmmmm
 ## Benvenuti nella mia repo personale
 
-Pubblicherò tutto il mio materiale: appunti, programmi, esercizi etc.
-
-Ogni file sarà commentabile in caso di dubbi e/o correzioni.
+Quello che torverete riguarda principalmente il secondo semestre, il resto è inutile publicarlo.
+Non Cambiate niente pls, se volete sapere qualcosa scrivetemi,
+le informazioni sono fornite tramite link publici verso google docs
 
 ## LINK APPUNTI
 [PROG 2](https://docs.google.com/document/d/1HgSItuF_dtx4Uf8tVKB-kT5dRAEclo5WALI2UsVFs5A/)
