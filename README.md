@@ -12,4 +12,6 @@ le informazioni sono fornite tramite link publici verso google docs
 
 [ARCHDomande](https://docs.google.com/document/d/1YRqDnacMOnU_o-mptGHBZ5gKxa-H4WY1YLWnTE4GERQ)
 
+[ARCH LAB](https://docs.google.com/document/d/1oohefCJmYsQLBWvaDIAzssChWDlNXHQmOpcThpm4jUE)
+
 ...
